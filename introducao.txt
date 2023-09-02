@@ -1,0 +1,17 @@
+Residência em Tecnologia da Informação e Comunicação
+
+INSTRUÇÃO PRÁTICA  | PI-P002 
+
+  
+
+MÓDULO PI - PROGRAMAÇÃO IMPERATIVA 
+
+  
+
+Essa demanda é referente as atividades instrução prática 2 - PI-P002, que irá cobrar conhecimentos práticos e teóricos em versionamento de código com Git e no 
+
+repositório Github, que capacitará trabalhar de forma eficiente e colaborativa em projetos de desenvolvimento de software usando controle de versão. 
+
+
+
+OBS.: Crie um branch chamado "feature-navbar".
