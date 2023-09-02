@@ -14,4 +14,3 @@ repositório Github, que capacitará trabalhar de forma eficiente e colaborativa
 
 
 
-OBS.: Crie um branch chamado "feature-navbar".
