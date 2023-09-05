@@ -1,0 +1,6 @@
+# Clonar um repositório
+* No GitHub.com, navegue até a página principal do repositório.
+* Acima da lista de arquivos, clique em Código.
+* Copie a URL do repositório. ...
+* Abra Terminal .
+* Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
